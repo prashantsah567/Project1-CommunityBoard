@@ -1,19 +1,11 @@
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
   text-align: center;
-}
-
-.container{
-  display: flex;
 }
 
 .CardView{
   width: 280px;
   height: 400px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
-  /* padding: 20px; */
   border-bottom-left-radius: 20px;
   border-bottom-right-radius: 20px;
   align-items: center;
@@ -24,7 +16,31 @@
   height: 250px;
 }
 
+.container{
+  margin-bottom: 5%;
+  margin-right: 3%;
+}
+
 .App{
   display: flex;
-  width: 30px;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+h1{
+  font-size: 60px;
+  line-height: 1.1;
+  color: #fff;
+  text-shadow: black 1px 0 10px;
+  padding-bottom: 18px;
+  margin-left: 50px;
+}
+
+.banner{
+  display: block;
+  width: 100%;
+  margin: 0;
+  height: 150px;
+  object-fit: cover;
 }

@@ -22,9 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Gif walk thorough of the project](https://im3.ezgif.com/tmp/ezgif-3-ff60c554e1.gif)
-
-![Alt text](../rec1-gif.gif)
+![Gif walk thorough of the project](src/assets/rec1-gif.gif)
 
 ## Notes
 

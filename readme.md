@@ -1,47 +1,36 @@
 # Web Development Project 1 - *Name of App Here*
 
-Submitted by: Prashant Sah
+Submitted by: **Prashant Sah**
 
-This web app: **insert description**
+This web app: **Is build in react that display different roles in software industry**
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **There is a unique theme for events or resources relevant to a specific community**
-- [ ] **At least 10 unique resources or events are displayed in a responsive card format**
+- [x] **There is a unique theme for events or resources relevant to a specific community**
+- [x] **At least 10 unique resources or events are displayed in a responsive card format**
 
 The following **optional** features are implemented:
 
-- [ ] Buttons or links to a related resources are on each card component
-- [ ] The site is responsive for both desktop and mobile formats
-
-The following **additional** features are implemented:
-
-* [ ] List anything else that you added to improve the site's functionality!
+- [x] Buttons or links to a related resources are on each card component
+- [x] The site is responsive for both desktop and mobile formats
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+![Alt text](../rec1-gif.gif)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The most challenging part was to pass the values as props and then process them. However I was able to do it with some online research.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [prashant_sah]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

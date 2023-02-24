@@ -24,6 +24,8 @@ Here's a walkthrough of implemented required features:
 
 ![Gif walk thorough of the project](https://im3.ezgif.com/tmp/ezgif-3-ff60c554e1.gif)
 
+![Alt text](../rec1-gif.gif)
+
 ## Notes
 
 The most challenging part was to pass the values as props and then process them. However I was able to do it with some online research.

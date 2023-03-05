@@ -1,8 +1,8 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - *Community Board*
 
 Submitted by: **Prashant Sah**
 
-This web app: **Is build in react that display different roles in software industry**
+This web app: **displays various roles in software industry with card layout view build in react**
 
 Time spent: **5** hours spent in total
 
@@ -26,11 +26,11 @@ Here's a walkthrough of implemented required features:
 
 ## Notes
 
-The most challenging part was to pass the values as props and then process them. However I was able to do it with some online research.
+- The challenging part was to pass the values as props and then process them. However I was able to do it with some online research.
 
 ## License
 
-    Copyright [2023] [prashant_sah]
+    Copyright [2023] [Prashant Sah]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
